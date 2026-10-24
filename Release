@@ -3,6 +3,7 @@ Label: QM源
 Suite: stable
 Version: 26.0
 Codename: QM
+Date: Sat, 24 Oct 2026 00:00:00 +0800
 Architectures: iphoneos-arm64
 Components: main
 Description: QM源
