@@ -1,0 +1,12 @@
+Package: MengTool
+Name: MengTool
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: QingMeng <ora223.cn@outlook.com>
+Description: 轻量级系统工具插件，提供快捷开关与系统清理等实用功能。
+Section: Utilities
+Filename: debs/MengTool_1.0.0_iphoneos-arm64.deb
+Size: 17408
+MD5sum: 471dbd936bcebf7a705e1dc134c0fea1
+SHA256sum: 4e62a465830652b5133b90840074d1cf3c1b882174050a9d26babcbf79ba06e5
+Author: QingMeng
