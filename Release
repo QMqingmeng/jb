@@ -1,0 +1,8 @@
+Origin: QM源
+Label: QM源
+Suite: stable
+Version: 26.0
+Codename: QM
+Architectures: iphoneos-arm64
+Components: main
+Description: QM源
