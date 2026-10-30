@@ -1,0 +1,12 @@
+Package: emt.paisseon.icleaner
+Name: iCleaner Pro
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: QingMeng <ora223.cn@outlook.com>
+Description: iCleaner Pro
+Section: Utilities
+Filename: pool/main/emt.paisseon.icleaner/emt.paisseon.icleaner_0.0.2_iphoneos-arm.deb
+Size: 17290
+MD5sum: 471dbd936bcebf7a705e1dc134c0fea1
+SHA256sum: 4e62a465830652b5133b90840074d1cf3c1b882174050a9d26babcbf79ba06e5
+Author: QingMeng
