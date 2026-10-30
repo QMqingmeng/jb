@@ -1,0 +1,8 @@
+Origin: QingMeng Repo
+Label: QingMeng
+Suite: stable
+Codename: stable
+Version: 1.0
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
+Components: main
+Description: QingMeng personal repo, support iphoneos-arm / arm64 / arm64e, only my own tweaks.
